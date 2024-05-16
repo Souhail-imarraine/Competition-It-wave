@@ -1,0 +1,59 @@
+.pricing-table .card {
+    border: none;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+}
+
+.pricing-table .card-header {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+}
+
+.pricing-table .price {
+    font-size: 48px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+.btn-order {
+    background-color: #02897A;
+    color: #ffffff;
+    border-radius: 25px;
+    padding: 10px 30px;
+    font-weight: bold;
+}
+
+.btn-order:hover {
+    background-color: #00b074;
+    color: white;
+}
+
+.card-free {
+    background-color: #f8f9fa;
+}
+
+.card-standard {
+    background-color: #02897A;
+    color: #ffff;
+}
+
+.btn-order-s {
+    background-color: #00b074;
+    color: #f8f9fa;
+    border-radius: 25px;
+    padding: 10px 30px;
+    font-weight: bold;
+}
+
+.btn-order-s:hover {
+    background-color: #ffffff;
+    color: black;
+}
+
+.card-premium {
+    background-color: #f8f9fa;
+}
